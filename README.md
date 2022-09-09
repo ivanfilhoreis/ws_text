@@ -1,4 +1,4 @@
-# Weak Supervision - Text
+# Weak Supervision Approach
 
 Title: Sequential Short-Text Classification from Multiple Textual Representations with Weak Supervision
 
@@ -76,10 +76,14 @@ To cite in your work, please use the following bibtex reference:
 @INPROCEEDINGS{225493,
     AUTHOR="Ivan Reis Filho and Luiz H. D. Martins and Antonio Parmezan and Ricardo Marcacini and Solange Rezende",
     TITLE="Sequential Short-Text Classification from Multiple Textual Representations with Weak Supervision",
-    BOOKTITLE="BRACIS 2022 () ",
+    BOOKTITLE="BRACIS 2022",
     ADDRESS="",
     DAYS="28-1",
     MONTH="nov",
     YEAR="2022"
 }
 ```
+
+### Repository and installation (TD-BERT)
+
+More details [(Click here)](https://github.com/ivanfilhoreis/td_bert)
