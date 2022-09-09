@@ -56,7 +56,8 @@ The time series split evaluation strategy was proposed to consider temporal depe
 
 ## Results
 
-Table presents a valuation scenario Positive Binary to Corn and Soybean, which we called CPB and SPB.
+Table presents a valuation scenario Positive Binary to Corn and Soybean, which we called CPB and SPB. Table row represents the result of the F1 for a specific algorithm. In bold, we highlight the highest values for each classification model. The underlined values represent the best result of the textual representation
+models (BoW, BERT, TD-BERT),
 
 <p align="center">
   <img src="https://github.com/ivanfilhoreis/ws_text/blob/main/img/cpb_spb.png" width="500px" alt="table2"/>
